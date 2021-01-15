@@ -1,0 +1,16 @@
+.card img{
+	background-color: #F1F1F1;
+	height: 480px;
+}
+.bottom-image{
+	width: 80px;
+	height: auto;
+	margin-right: 30px;
+}
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+}
+.bottom-space{
+	margin-bottom: 40px;
+}
